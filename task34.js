@@ -14,4 +14,4 @@ for (const item of mxArray) {
     typeCounts[type] += 1;
   }
 }
-console.dir(typeCounts);
+console.dir(typeCounts)
